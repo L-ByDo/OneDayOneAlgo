@@ -1,4 +1,5 @@
 #include<stdio.h>
+//Program in C to calculate prime numbers upto a number n using sieve of erastothenes
 int main()
 {
 	int limit;
@@ -10,7 +11,7 @@ int main()
 	//Here,we are marking.0 means prime number whereas 1 means composite number
 	//Firstly,mark all numbers as prime
 	int array[limit]={0};
-	//Sieve logic
+	//Sieve
 	for(int i=2;i<limit;i++)
 	{
 		for(int j=i*i;j<limit;j+=i)
@@ -18,9 +19,7 @@ int main()
 			array[j-1]=1;
 		}
 	}
-	//Special cases
-	array[1]==1;
-	array[2]==0;
+	printf("The prime numbers are :\n");
 	for(int i=2;i<limit;i++)
 	{
 		if(array[i-1]==0)
