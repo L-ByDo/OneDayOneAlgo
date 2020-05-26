@@ -22,12 +22,12 @@ class InsertionSort{
 			
 			// continuously comparing previous element with current element  
 			while(j>0 && arr[j-1]>temp) {
-				arr[j]=arr[j-1];			//increasing the index of larger element (index j) by one
-											// arr[j] is now empty.
+				arr[j]=arr[j-1];		//increasing the index of larger element (index j) by one
+								// arr[j] is now empty.
 				j--;
 			}
 			
-			// storing our current element to the empty place
+			// storing our current element into the empty place
 			arr[j]=temp;
 		}
 		
