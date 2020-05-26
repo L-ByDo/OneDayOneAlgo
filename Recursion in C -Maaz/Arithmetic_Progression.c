@@ -11,7 +11,7 @@ int recursion(int n,int d){
 void main(){
     int n,d,res;
     scanf("%d%d",&n,&d);
-    res=recursion(n,d);  /*calling function/*
+    res=recursion(n,d);  /*calling function./*
     printf("%d",res);
 }
 
