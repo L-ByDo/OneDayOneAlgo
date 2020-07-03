@@ -15,7 +15,7 @@ class Find:
         for i in range(1,len(value)):
             if value[i].starting>=value[i-1].finishing:  #comparing using finishing time
                 count+=1
-        return count
+        return count+1
 
 start=[1,3,0,5,8,5]
 finish=[2,4,6,7,9,9]
