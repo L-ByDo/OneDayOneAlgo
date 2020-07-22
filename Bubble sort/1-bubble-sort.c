@@ -1,5 +1,6 @@
 #include<conio.h>
 #include<stdio.h>
+#include<stdlib.h>
 void main()
 {
     int i,n,arr[100],j,temp;
