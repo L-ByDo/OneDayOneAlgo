@@ -1,4 +1,4 @@
-#Problem 6
+# Problem 6
 
 We are required to find the difference between sum of the squares and square of sum of the first 100 natural numbers.
 It means we are required to find out the following difference:
