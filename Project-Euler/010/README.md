@@ -6,6 +6,6 @@ our code will take a lot of time to obtain the answer.
 Instead of this, we will use the Seive method by Eratosthenes to mark all prime numbers
 and then sum them. This solution will only take a few milliseconds to produce an answer.
 To learn more about the Seive method by Eratosthenes, 
-Check out the implementations of this algorithm [here](https://github.com/L-ByDo/OneDayOneAlgo/tree/master/SieveOfEratosthenes)
-To know more about the approach, refer [this article](https://www.geeksforgeeks.org/sieve-of-eratosthenes/)
+Check out the implementations of this algorithm [here](https://github.com/L-ByDo/OneDayOneAlgo/tree/master/SieveOfEratosthenes).
+To know more about the approach, refer [this article](https://www.geeksforgeeks.org/sieve-of-eratosthenes/).
 
