@@ -11,7 +11,7 @@ while p*p<=limit:
         for i in range(p*p,limit+1,p):
             seive[i]=False
     p+=1   
-answer = sum(i for i in range(2,limit+1) if seive[i])  #summin all the marked primes  
+answer = sum(i for i in range(2,limit+1) if seive[i])  #summing all the marked primes  
 
 print("The sum of all prime numbers below 2 Million is ",answer)
 print("The time taken is ",time.time()-start)
