@@ -1,4 +1,0 @@
-2020.07.11 09:19:39 INFO  started: Metals version 0.9.1 in workspace '/home/priyanshu/Desktop/OneDayOneAlgo'
-2020.07.11 09:19:43 INFO  time: initialize in 3.62s
-2020.07.11 09:19:45 WARN  no build tool detected in workspace '/home/priyanshu/Desktop/OneDayOneAlgo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
-2020.07.11 09:51:50 INFO  shutting down Metals
