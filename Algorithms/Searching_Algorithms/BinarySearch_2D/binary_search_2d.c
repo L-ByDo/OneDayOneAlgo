@@ -11,21 +11,21 @@
  * ----------------------
  * checks ITERATIVELY for for the target value in array and prints the index if found +
  * the number of comparisons made.
- * 
+ *
  * *array: pointer to the array
  * rows: total number of rows
  * columns: total number of columns
  * target_value: value that needs to be searched in the arary.
- * 
+ *
 */
-void binarySearch(int *array, int rows, int cols, int target_value){
+void binarySearch(int *array, int rows, int cols, int target_value) {
 
     int start = 0, comparisonsCount = 0;
     int mid, i, j, value;
     int end = rows * cols - 1;  // total number of elements - 1
 
     // loop for the given condition
-    while(start <= end){
+    while(start <= end) {
 
         comparisonsCount++;     // increment of number of comparisons
 
@@ -35,19 +35,19 @@ void binarySearch(int *array, int rows, int cols, int target_value){
         value = *((array + i*cols) + j);    // value at the given ROW & COLUMN INDEX
 
         // Check if the target_value is same as middle value
-        if (value == target_value){
+        if (value == target_value) {
             printf("Element found at index: %d, %d \n", i, j);
             printf("Number of Comparisons done: %d \n", comparisonsCount);
             return;
         }
 
-        // If target_value is smaller than mid, then 
-        // it can only be present in left subarray 
-        else if(value > target_value) 
+        // If target_value is smaller than mid, then
+        // it can only be present in left subarray
+        else if(value > target_value)
             end = mid - 1;
 
-        // Else the element can only be present 
-        // in right subarray 
+        // Else the element can only be present
+        // in right subarray
         else
             start = mid + 1;
     }
@@ -56,7 +56,7 @@ void binarySearch(int *array, int rows, int cols, int target_value){
     return;
 }
 
-int main(void){
+int main(void) {
 
     // input size of array (integer)
     int rows, columns;
@@ -87,9 +87,9 @@ int main(void){
             for (j = 0; j < columns; j++)
             {
                 // If condition for rows other than the firs tone
-                // Each time row changes , 
+                // Each time row changes ,
                 // assign value of the first element of next row such that
-                // value of this element is more than that of last element of previous row  
+                // value of this element is more than that of last element of previous row
                 if (j == 0)
                 {
                     array[i][0] = array[i - 1][columns - 1] + rand() % 100;
@@ -100,8 +100,8 @@ int main(void){
     }
 
     // print array
-    for (i=0; i<rows; i++){
-        for(j=0; j<columns; j++){
+    for (i=0; i<rows; i++) {
+        for(j=0; j<columns; j++) {
             printf("%d\t", array[i][j]);
         }
         printf("\n");
