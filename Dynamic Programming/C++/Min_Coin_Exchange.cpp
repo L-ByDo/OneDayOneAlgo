@@ -1,4 +1,5 @@
 //The minimum coin exchange problem focuses on finding the minimum number of coins we need to sum up to particular sum. Givven that we are supplied with unlimited quantity of coins. We apply dynamic programming approach to find out this solution
+
 #include<iostream>
 #include<algorithm>
 using namespace std;
