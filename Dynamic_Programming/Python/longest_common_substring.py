@@ -56,4 +56,5 @@ if __name__ == "__main__":
     Y = input("Enter second string: ")
     m = len(X)
     n = len(Y)
+    
     print(lcs(X, Y, m, n))
