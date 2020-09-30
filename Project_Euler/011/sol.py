@@ -10,10 +10,8 @@ def product(i, j, change_i, change_j):
 grid = []
 global_product = 0
 
-
 for _ in range(20):
     grid.append(list(map(int, input().split())))
-
 
 for i in range(20):
     for j in range(20):
