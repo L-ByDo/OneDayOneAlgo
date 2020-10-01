@@ -51,7 +51,6 @@ def quicksort(arr, low, high):
 
 # input array
 
-
 arr = [int(x) for x in input().split()]
 
 # Function Call

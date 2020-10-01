@@ -16,7 +16,8 @@ be carried.
 from typing import Union
 
 
-def calc_profit(profit: list, weight: list, max_weight: int) -> Union[str, int]:
+def calc_profit(profit: list, weight: list,
+                max_weight: int) -> Union[str, int]:
     """
     Function description is as follows-
     :param profit: Take a list of profits
@@ -86,11 +87,14 @@ def calc_profit(profit: list, weight: list, max_weight: int) -> Union[str, int]:
 if __name__ == "__main__":
     print(
         "Input profits, weights, and then max_weight (all positive ints) separated by "
-        "spaces."
-    )
+        "spaces.")
 
-    profit = [int(x) for x in input("Input profits separated by spaces: ").split()]
-    weight = [int(x) for x in input("Input weights separated by spaces: ").split()]
+    profit = [
+        int(x) for x in input("Input profits separated by spaces: ").split()
+    ]
+    weight = [
+        int(x) for x in input("Input weights separated by spaces: ").split()
+    ]
     max_weight = int(input("Max weight allowed: "))
 
     # Function Call
