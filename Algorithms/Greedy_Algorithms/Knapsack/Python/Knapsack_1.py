@@ -1,6 +1,4 @@
 # To get an insight into Greedy Algorithm through the Knapsack problem
-
-
 """
 A shopkeeper has bags of wheat that each have different weights and different profits.
 eg.
