@@ -5,7 +5,7 @@ The soul aim of this initiative is to bring together all the tech heads, who are
 
  
 
-This 𝑶𝒏𝒆𝑫𝒂𝒚𝑶𝒏𝒆𝑨𝒍𝒈𝒐 is a series that we are conducting here on GitHub as a part of L-ByDo Community. 💯 You will be given an algorithm each day and you have to code it in whatever language you are comfortable with and upload your file here on https://github.com/L-ByDo/OneDayOneAlgo .
+This 𝑶𝒏𝒆𝑫𝒂𝒚𝑶𝒏𝒆𝑨𝒍𝒈𝒐 is a series that we are conducting here on GitHub as a part of L-ByDo Community. 💯 You will have algorithms to solve each day, code it in whatever language you are comfortable with and upload your file here on https://github.com/L-ByDo/OneDayOneAlgo .
 
 
 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻 𝗴𝘂𝗶𝗱𝗲𝗹𝗶𝗻𝗲𝘀 :-
