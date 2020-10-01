@@ -1,14 +1,14 @@
 𝗔𝗯𝗼𝘂𝘁 𝗟-𝗕𝘆𝗗𝗼 𝗰𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆  :-
-We  have developed a community to promote Learning By Doing, no matter, what your branch is or from which college you belong.What you need here is a passion for your interests in learning and implementing technology related stuffs.💻
+We  have developed a community to promote Learning By Doing, no matter, what your branch is or from which college you belong.What you need here is a passion for your interests in learning and implementing technology related stuffs.
 We will act as facilitators while anyone joining this community acts as a volunteer.✅
 The soul aim of this initiative is to bring together all the tech heads, who are committed to enhance their knowledge,so as to promote collaborative learning and problem solving. We will be having virtual discussions on different topics of concern.Alongwith it ,we will be constantly sharing important information from various resources.📚 
 
  
 
-This 𝑶𝒏𝒆𝑫𝒂𝒚𝑶𝒏𝒆𝑨𝒍𝒈𝒐 is a series that we are conducting here on GitHub as a part of L-ByDo Community. 💯 You will have algorithms to solve each day, code it in whatever language you are comfortable with and upload your file here on https://github.com/L-ByDo/OneDayOneAlgo .
+This 𝑶𝒏𝒆𝑫𝒂𝒚𝑶𝒏𝒆𝑨𝒍𝒈𝒐 is a series that we are conducting here on GitHub as a part of L-ByDo Community.  You will have algorithms to solve each day, code it in whatever language you are comfortable with and upload your file here on https://github.com/L-ByDo/OneDayOneAlgo .
 
 
-𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻 𝗴𝘂𝗶𝗱𝗲𝗹𝗶𝗻𝗲𝘀 :-
+𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻 𝗴𝘂𝗶𝗱𝗲𝗹𝗶𝗻𝗲𝘀:-
 
 1.𝘾𝙤𝙢𝙢𝙪𝙣𝙞𝙘𝙖𝙩𝙞𝙣𝙜 𝙚𝙛𝙛𝙚𝙘𝙩𝙞𝙫𝙚𝙡𝙮: Whether you’re a one-time contributor or trying to join a community, working with others is one of the most important skills you’ll develop in open source.
 Before you open an issue or pull request, or ask a question in chat, keep these points in mind to help your ideas come across effectively.
