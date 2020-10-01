@@ -7,7 +7,7 @@ void main()
     printf("Enter the number of elements:\n");
     scanf("%d",&n);
     printf("ENter the elements in the array");
-    for(i=1;i<=n;i++)
+    for(i=1; i<=n; i++)
     {
         scanf("\t %d",&arr[i]);
 
@@ -19,7 +19,7 @@ void main()
     }
     for ( i=1; i<=n-1; i++)
     {
-        for ( j=1; j<=n-1;j++)
+        for ( j=1; j<=n-1; j++)
         {
             if(arr[j]>arr[j+1])
             {
@@ -28,12 +28,12 @@ void main()
                 arr[j+1]=temp;
             }
         }
-        
+
     }
     printf("\n Elements after sorting are:");
     for ( i=1; i<=n; i++)
     {
         printf("\t %d",arr[i]);
     }
-    
+
 }
