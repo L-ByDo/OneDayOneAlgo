@@ -25,7 +25,8 @@ class TestClass(unittest.TestCase):
         profit = [10, 20, 30, 40, 50, 60]
         weight = [2, 4, 6, 8, 10, 12]
         max_weight = -15
-        self.assertRaisesRegex(kp.calc_profit(profit, weight, max_weight), ValueError,)
+        self.assertRaisesRegex(kp.calc_profit(
+            profit, weight, max_weight), ValueError,)
 
     def test_negative_profit_value(self):
         """
@@ -57,7 +58,8 @@ class TestClass(unittest.TestCase):
         # profit = [10, 20, 30, 40, 50, 60]
         # weight = [2, 4, 6, 8, 10, 12]
         # max_weight = null
-        self.assertRaisesRegex(ValueError, "max_weight must greater than zero.")
+        self.assertRaisesRegex(
+            ValueError, "max_weight must greater than zero.")
 
     def test_unequal_list_length(self):
         """
