@@ -1,12 +1,12 @@
 def partition(arr, low, high):
-    '''
+    """
     This functions takes up the lower and higher indices respectively and returns an array with the pivot element
     arranged such that all the elements less than it are on left and the greater one on right.
     :param arr: Array
     :param low: initially set to 0
     :param high: initially taken as length of array
     :return:
-    '''
+    """
 
     # Pivot element can be any of the element of the array, here it is the element at 0th index
     pivot = arr[low]
@@ -46,7 +46,8 @@ def quicksort(arr, low, high):
     if low < high:
         j = partition(arr, low, high)
         quicksort(arr, low, j)
-        quicksort(arr, j+1, high)
+        quicksort(arr, j + 1, high)
+
 
 # input array
 
