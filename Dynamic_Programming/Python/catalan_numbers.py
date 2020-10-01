@@ -2,15 +2,13 @@
 Catalan numbers are a sequence of natural numbers which satisfy the following
 recursive formula:
 C(0) = 1  and  C(n+1) = summation(i=0 to n) of C(i)*C(n-i)
-
 Here we will see a naive recursive implementation of calculating catalan numbers
 and an optimized solution using dynamic programming and then compare the time
 taken by them using timeit library.
 """
-
+from random import randint
 from timeit import repeat
 from typing import Tuple
-from random import randint
 
 
 def catalan_recursive(n: int) -> int:
