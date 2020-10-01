@@ -12,9 +12,8 @@ if it is the uppermost disk on a stack.
 from typing import Union
 
 
-def tower_of_hanoi(
-    n: int, from_tower: str, to_tower: str, aux_tower: str
-) -> Union[str, int]:
+def tower_of_hanoi(n: int, from_tower: str, to_tower: str,
+                   aux_tower: str) -> Union[str, int]:
     """
     This recursive function returns each step of shuffling the discs.
     :param n: Number of discs placed in {from_tower}
@@ -38,10 +37,12 @@ def tower_of_hanoi(
     NameError: name 'A' is not defined
     """
     if n == 1:
-        print("Move disc 1 from Tower {} to Tower {}".format(from_tower, to_tower))
+        print("Move disc 1 from Tower {} to Tower {}".format(
+            from_tower, to_tower))
         return
     tower_of_hanoi(n - 1, from_tower, aux_tower, to_tower)
-    print("Move disc {} from Tower {} to Tower {}".format(n, from_tower, to_tower))
+    print("Move disc {} from Tower {} to Tower {}".format(
+        n, from_tower, to_tower))
     tower_of_hanoi(n - 1, aux_tower, to_tower, from_tower)
 
 
@@ -55,7 +56,8 @@ if __name__ == "__main__":
     # get_inputs
     num_Discs = int(input("Number of discs "))
     from_Tower, to_Tower, aux_Tower = [
-        x for x in input("Input tower name (A/B/C) separated by space.").split()
+        x
+        for x in input("Input tower name (A/B/C) separated by space.").split()
     ]
     # Function Call
     tower_of_hanoi(num_Discs, from_Tower, to_Tower, aux_Tower)

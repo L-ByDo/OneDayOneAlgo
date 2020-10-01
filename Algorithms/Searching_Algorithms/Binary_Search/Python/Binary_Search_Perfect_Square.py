@@ -42,7 +42,8 @@ result = BinarySearch(arr, 0, len(arr) - 1, NumSquare)
 
 # check for True
 if result:
-    print("Yes! " + "The index of square of {} is {}".format(Num, arr.index(Num * Num)))
+    print("Yes! " +
+          "The index of square of {} is {}".format(Num, arr.index(Num * Num)))
 
 # For false
 else:

@@ -15,5 +15,6 @@ for first_elem in range(0, len(arr) - 1, 1):
     for remain_elem in range(first_elem + 1, len(arr)):
         # if remaining list has element smaller than first element,replace
         if arr[first_elem] > arr[remain_elem]:
-            arr[first_elem], arr[remain_elem] = arr[remain_elem], arr[first_elem]
+            arr[first_elem], arr[remain_elem] = arr[remain_elem], arr[
+                first_elem]
 print("The peak element is {}".format(arr[-1]))  # print the last element

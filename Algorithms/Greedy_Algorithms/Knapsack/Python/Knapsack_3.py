@@ -62,7 +62,8 @@ class TestClass(unittest.TestCase):
         # profit = [10, 20, 30, 40, 50, 60]
         # weight = [2, 4, 6, 8, 10, 12]
         # max_weight = null
-        self.assertRaisesRegex(ValueError, "max_weight must greater than zero.")
+        self.assertRaisesRegex(ValueError,
+                               "max_weight must greater than zero.")
 
     def test_unequal_list_length(self):
         """
@@ -73,8 +74,7 @@ class TestClass(unittest.TestCase):
         # weight = [2, 4, 6, 8, 10, 12]
         # max_weight = 100
         self.assertRaisesRegex(
-            IndexError, "The length of profit and weight must be same."
-        )
+            IndexError, "The length of profit and weight must be same.")
 
 
 if __name__ == "__main__":
