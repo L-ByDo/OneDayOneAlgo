@@ -3,9 +3,11 @@ class total:
         self.weight = weight
         self.value = value
         self.index = index
-        self.cost = value/weight
+        self.cost = value / weight
 
-    def __lt__(self, other):  # operator overloading to compare two objects' costs. Called whenever objects will be
+    def __lt__(
+        self, other
+    ):  # operator overloading to compare two objects' costs. Called whenever objects will be
         # comapred
         return self.cost < other.cost
 
@@ -31,13 +33,12 @@ class final_value:
             # if more capacity than current object's weight, then simply add the value
             if capacity >= int(objct.weight):
                 # to total value
-                total_value = total_value+int(objct.value)
+                total_value = total_value + int(objct.value)
                 capacity -= int(objct.weight)
 
             else:
                 # else add some part of value of the object
-                total_value += int(objct.value) * \
-                    (int(capacity)/int(objct.weight))
+                total_value += int(objct.value) * (int(capacity) / int(objct.weight))
                 break
 
         return total_value

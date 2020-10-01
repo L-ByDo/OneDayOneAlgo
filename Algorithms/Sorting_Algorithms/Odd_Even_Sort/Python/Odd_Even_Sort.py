@@ -13,11 +13,10 @@ Original file is located at
 # this will seperately sort odd and even index and then finally print the list
 arr = [1, 43, 23, 87, 5]
 for round in range(0, len(arr), 1):
-    for even_index in range(0, len(arr)-1, 2):
-        if arr[even_index+1] < arr[even_index]:
-            arr[even_index], arr[even_index +
-                                 1] = arr[even_index+1], arr[even_index]
-    for odd_index in range(1, len(arr)-1, 2):
-        if arr[odd_index+1] < arr[odd_index]:
-            arr[odd_index], arr[odd_index+1] = arr[odd_index+1], arr[odd_index]
+    for even_index in range(0, len(arr) - 1, 2):
+        if arr[even_index + 1] < arr[even_index]:
+            arr[even_index], arr[even_index + 1] = arr[even_index + 1], arr[even_index]
+    for odd_index in range(1, len(arr) - 1, 2):
+        if arr[odd_index + 1] < arr[odd_index]:
+            arr[odd_index], arr[odd_index + 1] = arr[odd_index + 1], arr[odd_index]
 print(arr[-2])  # print second last element

@@ -16,11 +16,12 @@ def quicksort(seq):  # function to sort array
         else:
             low.append(seq[0])
         return fun(seq[1:], low, great)
+
     fun(seq, low, great)
-    return quicksort(low)+[pivot]+quicksort(great)
+    return quicksort(low) + [pivot] + quicksort(great)
 
 
 arr = [-4, 5, -78, -65, 2, -56, 788, 67, 0, 75]
 arr = quicksort(arr)
 print(arr)
-print(arr[-1]+arr[-2])  # print sum of last two numbers
+print(arr[-1] + arr[-2])  # print sum of last two numbers

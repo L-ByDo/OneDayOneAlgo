@@ -91,10 +91,8 @@ if __name__ == "__main__":
         "spaces."
     )
 
-    profit = [int(x)
-              for x in input("Input profits separated by spaces: ").split()]
-    weight = [int(x)
-              for x in input("Input weights separated by spaces: ").split()]
+    profit = [int(x) for x in input("Input profits separated by spaces: ").split()]
+    weight = [int(x) for x in input("Input weights separated by spaces: ").split()]
     max_weight = int(input("Max weight allowed: "))
 
     # Function Call
