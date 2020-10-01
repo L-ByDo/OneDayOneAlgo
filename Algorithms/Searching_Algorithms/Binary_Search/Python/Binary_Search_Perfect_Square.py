@@ -1,8 +1,6 @@
 # Find the square of a given number in a sorted array. If present, Return Yes with the index of element's index
 # Else return No
-
 # Program using Recursive Binary Search
-
 # Returns True for Yes and False for No
 
 
