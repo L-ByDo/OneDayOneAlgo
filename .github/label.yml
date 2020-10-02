@@ -1,0 +1,24 @@
+Python:
+  - "(Python|PYTHON|python)"
+enhancement:
+  - "(enhancement)"
+Easy:
+  - "(Easy|easy)"  
+Medium:
+  - "(Medium|medium)"
+Hard:
+  - "(Hard|hard)"
+bug:
+  - "(bug|Bug|BUG)"  
+Up-For-Grab:
+  - "(up for grab)"  
+Urgent:
+  - "(urgent|URGENT|Urgent)"  
+documentation:
+  - "(documentation)"
+No-Code:
+  - "(No Code)"
+Hacktoberfest:
+  - ".*"
+good first issue:
+ - ".*"
