@@ -30,7 +30,7 @@ int main()
   	printf("Sum for triplet you are looking for:");
   	n=scanf("%d",&sum);
   	
-  	for(i=0;i<n:i++){
+  	for(i=0;i<n;i++){
     	printf("enter %dth value",i);
       	sacnf("%d",&array[i]);
     }
