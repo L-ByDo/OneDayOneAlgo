@@ -60,15 +60,17 @@ void print(int arr[], int n)
     for (int i = 0; i < n; i++)
         cout << arr[i] << " ";
 }
- 
-// Driver Code
+
 int main()
 {
-    int arr[] = { 170, 45, 75, 90, 802, 24, 2, 66 };
-    int n = sizeof(arr) / sizeof(arr[0]);
+     int arr[1000];
+     for(int i=0;i<1000;i++){
+      cin>>arr[i];
+     }
+     int n = sizeof(arr) / sizeof(arr[0]);
      
-      // Function Call
-      radixsort(arr, n);
+    // Function Call
+    radixsort(arr, n);
     print(arr, n);
     return 0;
 }
