@@ -1,4 +1,5 @@
 # 𝗔𝗯𝗼𝘂𝘁 𝗟-𝗕𝘆𝗗𝗼 C𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 :
+
 We  have developed a community to promote Learning By Doing, no matter, what your branch is or from which college you belong.What you need here is a passion for your interests in learning and implementing technology related stuffs.
 We will act as facilitators while anyone joining this community acts as a volunteer.✅
 The soul aim of this initiative is to bring together all the tech heads, who are committed to enhance their knowledge,so as to promote collaborative learning and problem solving. We will be having virtual discussions on different topics of concern.Alongwith it ,we will be constantly sharing important information from various resources.📚 
@@ -8,9 +9,9 @@ The soul aim of this initiative is to bring together all the tech heads, who are
 This 𝑶𝒏𝒆𝑫𝒂𝒚𝑶𝒏𝒆𝑨𝒍𝒈𝒐 is a series that we are conducting here on GitHub as a part of L-ByDo Community.  You will have algorithms to solve each day, code it in whatever language you are comfortable with and upload your file here on https://github.com/L-ByDo/OneDayOneAlgo .
 
 
-### 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻 𝗴𝘂𝗶𝗱𝗲𝗹𝗶𝗻𝗲𝘀 :
+## 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻 𝗴𝘂𝗶𝗱𝗲𝗹𝗶𝗻𝗲𝘀 :
 
-#### 1.𝘾𝙤𝙢𝙢𝙪𝙣𝙞𝙘𝙖𝙩𝙞𝙣𝙜 𝙚𝙛𝙛𝙚𝙘𝙩𝙞𝙫𝙚𝙡𝙮:  
+### 1.𝘾𝙤𝙢𝙢𝙪𝙣𝙞𝙘𝙖𝙩𝙞𝙣𝙜 𝙚𝙛𝙛𝙚𝙘𝙩𝙞𝙫𝙚𝙡𝙮:  
 Whether you’re a one-time contributor or trying to join a community, working with others is one of the most important skills you’ll develop in open source.
 Before you open an issue or pull request, or ask a question in chat, keep these points in mind to help your ideas come across effectively.
 
@@ -28,7 +29,7 @@ Before you open an issue or pull request, or ask a question in chat, keep these 
 
  - 𝑨𝒃𝒐𝒗𝒆 𝒂𝒍𝒍, 𝒌𝒆𝒆𝒑 𝒊𝒕 𝒄𝒍𝒂𝒔𝒔𝒚:  Open source is made up of collaborators from all over the world. Context gets lost across languages, cultures, geographies, and time zones. In addition, written communication makes it harder to convey a tone or mood. Assume good intentions in these conversations. It’s fine to politely push back on an idea, ask for more context, or further clarify your position. Just try to leave the internet a better place than when you found it.
 
-#### 2.𝙂𝙖𝙩𝙝𝙚𝙧𝙞𝙣𝙜 𝙘𝙤𝙣𝙩𝙚𝙭𝙩: 
+### 2.𝙂𝙖𝙩𝙝𝙚𝙧𝙞𝙣𝙜 𝙘𝙤𝙣𝙩𝙚𝙭𝙩: 
 Before doing anything, do a quick check to make sure your idea hasn’t been discussed elsewhere. Skim the project’s README, issues (open and closed), mailing list, and Stack Overflow. You don’t have to spend hours going through everything, but a quick search for a few key terms goes a long way.
 If you can’t find your idea elsewhere, you’re ready to make a move. If the project is on GitHub, you’ll likely communicate by opening an issue or pull request:</br>
 
@@ -39,19 +40,22 @@ For lightweight communication, such as a clarifying or how-to question, try aski
 Before you open an issue or pull request, check the project’s contributing docs (usually a file called CONTRIBUTING, or in the README), to see whether you need to include anything specific. For example, they may ask that you follow a template, or require that you use tests.
 If you want to make a substantial contribution, open an issue to ask before working on it. It’s helpful to watch the project for a while (on GitHub, you can click “Watch” to be notified of all conversations), and get to know community members, before doing work that might not get accepted.
 
-3.𝙊𝙥𝙚𝙣𝙞𝙣𝙜 𝙖𝙣 𝙞𝙨𝙨𝙪𝙚: You should usually open an issue in the following situations:
+### 3.𝙊𝙥𝙚𝙣𝙞𝙣𝙜 𝙖𝙣 𝙞𝙨𝙨𝙪𝙚: 
+You should usually open an issue in the following situations:
 
-(a).Report an error you can’t solve yourself
-(b).Discuss a high-level topic or idea (for example, community, vision or policies)
-(c).Propose a new feature or other project idea
+ - Report an error you can’t solve yourself
+ - Discuss a high-level topic or idea (for example, community, vision or policies)
+ - Propose a new feature or other project idea
 
 Tips for communicating on issues:
+<ol>
+<li>If you see an open issue that you want to tackle, comment on the issue to let people know you’re on it. That way, people are less likely to duplicate your work.</br></li>
+<li>If an issue was opened a while ago, it’s possible that it’s being addressed somewhere else, or has already been resolved, so comment to ask for confirmation before starting work.</br></li>
+<li>If you opened an issue, but figured out the answer later on your own, comment on the issue to let people know, then close the issue. Even documenting that outcome is a contribution to the project.</li>
+</ol>
 
-(a).If you see an open issue that you want to tackle, comment on the issue to let people know you’re on it. That way, people are less likely to duplicate your work.
-(b).If an issue was opened a while ago, it’s possible that it’s being addressed somewhere else, or has already been resolved, so comment to ask for confirmation before starting work.
-(c).If you opened an issue, but figured out the answer later on your own, comment on the issue to let people know, then close the issue. Even documenting that outcome is a contribution to the project.
-
-4.𝙊𝙥𝙚𝙣𝙞𝙣𝙜 𝙖 𝙥𝙪𝙡𝙡 𝙧𝙚𝙦𝙪𝙚𝙨𝙩: You should usually open a pull request in the following situations:
+### 4.𝙊𝙥𝙚𝙣𝙞𝙣𝙜 𝙖 𝙥𝙪𝙡𝙡 𝙧𝙚𝙦𝙪𝙚𝙨𝙩: 
+You should usually open a pull request in the following situations:
 
 (a).Submit trivial fixes (for example, a typo, a broken link or an obvious error)
 (b).Start work on a contribution that was already asked for, or that you’ve already discussed, in an issue
