@@ -8,8 +8,6 @@ Because integers can be used to represent strings (by hashing the strings to int
 
  - Sort input array using counting sort (or any stable sort) according to the i’th digit.
 
-![Radix Sort](https://raw.githubusercontent.com/pooyahatami/Algorithm-Sort-Radix/master/img/radix-sort-algorithms.jpg)
-
 Let us understand it with the help of an example.
 
 ```javascript
