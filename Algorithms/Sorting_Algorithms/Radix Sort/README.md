@@ -24,3 +24,18 @@ Sorting by most significant digit (100s place) gives:
 
 2, 24, 45, 66, 75, 90, 170, 802
 ```
+## The complexity of Radix Sort Technique
+  - Time Complexity: O(nk)
+  - Space Complexity: O(n+k)
+## Input Output Format
+  - Input − An array of data, and the total number in the array, digit count of max number
+
+  - Output − Sorted array.
+  
+## Example
+
+  ### Input:
+     The unsorted list: 802 630 20 745 52 300 612 932 78 187
+  ### Output:
+     Data before Sorting: 802 630 20 745 52 300 612 932 78 187
+     Data after Sorting: 20 52 78 187 300 612 630 745 802 932
