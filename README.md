@@ -10,7 +10,8 @@ This 𝑶𝒏𝒆𝑫𝒂𝒚𝑶𝒏𝒆𝑨𝒍𝒈𝒐 is a series that we ar
 
 ### 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻 𝗴𝘂𝗶𝗱𝗲𝗹𝗶𝗻𝗲𝘀 :
 
-1.𝘾𝙤𝙢𝙢𝙪𝙣𝙞𝙘𝙖𝙩𝙞𝙣𝙜 𝙚𝙛𝙛𝙚𝙘𝙩𝙞𝙫𝙚𝙡𝙮: Whether you’re a one-time contributor or trying to join a community, working with others is one of the most important skills you’ll develop in open source.
+#### 1.𝘾𝙤𝙢𝙢𝙪𝙣𝙞𝙘𝙖𝙩𝙞𝙣𝙜 𝙚𝙛𝙛𝙚𝙘𝙩𝙞𝙫𝙚𝙡𝙮:  
+Whether you’re a one-time contributor or trying to join a community, working with others is one of the most important skills you’ll develop in open source.
 Before you open an issue or pull request, or ask a question in chat, keep these points in mind to help your ideas come across effectively.
 
  - 𝑮𝒊𝒗𝒆 𝑪𝒐𝒏𝒕𝒆𝒙𝒕 : Help others get quickly up to speed. If you’re running into an error, explain what you’re trying to do and how to reproduce it. If you’re suggesting a new idea, explain why you think it’d be useful to the project (not just to you!).
