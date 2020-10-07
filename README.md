@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="500" height="300" display = "block" src="https://avatars0.githubusercontent.com/u/55204045?s=400&u=0a88e1608dfbd923c6bb7c2e53a490b1abcf774b&v=4">
+</p>
+
 # 𝗔𝗯𝗼𝘂𝘁 𝗟-𝗕𝘆𝗗𝗼 C𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 :
 
 We  have developed a community to promote Learning By Doing, no matter, what your branch is or from which college you belong.What you need here is a passion for your interests in learning and implementing technology related stuffs.
@@ -6,7 +10,7 @@ The soul aim of this initiative is to bring together all the tech heads, who are
 
  
 
-This 𝑶𝒏𝒆𝑫𝒂𝒚𝑶𝒏𝒆𝑨𝒍𝒈𝒐 is a series that we are conducting here on GitHub as a part of L-ByDo Community.  You will have algorithms to solve each day, code it in whatever language you are comfortable with and upload your file here on https://github.com/L-ByDo/OneDayOneAlgo .
+This 𝑶𝒏𝒆𝑫𝒂𝒚𝑶𝒏𝒆𝑨𝒍𝒈𝒐 is a series that we are conducting here on GitHub as a part of L-ByDo Community.  You will have algorithms to solve each day, code it in whatever language you are comfortable with and upload your file [here](https://github.com/L-ByDo/OneDayOneAlgo).
 
 
 ## 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻 𝗴𝘂𝗶𝗱𝗲𝗹𝗶𝗻𝗲𝘀 :
