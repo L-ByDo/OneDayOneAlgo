@@ -1,4 +1,4 @@
-<p align="right-center">
+<p align="center">
   <img width="200" height="200"  src="https://github.com/Toulik-Das/OneDayOneAlgo/blob/master/.github/workflows/65757834.jpg">
 </p>
 
