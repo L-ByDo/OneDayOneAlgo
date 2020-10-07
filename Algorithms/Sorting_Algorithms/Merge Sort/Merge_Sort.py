@@ -56,7 +56,7 @@ def mergeSort(arr,l,r):
         merge(arr, l, m, r) 
   
   
-# Driver code to test above
+#Input
 arr = []
 arr = [int(item) for item in input().split()] 
 n = len(arr) 
