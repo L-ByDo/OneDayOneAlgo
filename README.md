@@ -28,11 +28,12 @@ Before you open an issue or pull request, or ask a question in chat, keep these 
 
  - 𝑨𝒃𝒐𝒗𝒆 𝒂𝒍𝒍, 𝒌𝒆𝒆𝒑 𝒊𝒕 𝒄𝒍𝒂𝒔𝒔𝒚:  Open source is made up of collaborators from all over the world. Context gets lost across languages, cultures, geographies, and time zones. In addition, written communication makes it harder to convey a tone or mood. Assume good intentions in these conversations. It’s fine to politely push back on an idea, ask for more context, or further clarify your position. Just try to leave the internet a better place than when you found it.
 
-2.𝙂𝙖𝙩𝙝𝙚𝙧𝙞𝙣𝙜 𝙘𝙤𝙣𝙩𝙚𝙭𝙩: Before doing anything, do a quick check to make sure your idea hasn’t been discussed elsewhere. Skim the project’s README, issues (open and closed), mailing list, and Stack Overflow. You don’t have to spend hours going through everything, but a quick search for a few key terms goes a long way.
-If you can’t find your idea elsewhere, you’re ready to make a move. If the project is on GitHub, you’ll likely communicate by opening an issue or pull request:
+#### 2.𝙂𝙖𝙩𝙝𝙚𝙧𝙞𝙣𝙜 𝙘𝙤𝙣𝙩𝙚𝙭𝙩: 
+Before doing anything, do a quick check to make sure your idea hasn’t been discussed elsewhere. Skim the project’s README, issues (open and closed), mailing list, and Stack Overflow. You don’t have to spend hours going through everything, but a quick search for a few key terms goes a long way.
+If you can’t find your idea elsewhere, you’re ready to make a move. If the project is on GitHub, you’ll likely communicate by opening an issue or pull request:</br>
 
-(a).Issues are like starting a conversation or discussion
-(b).Pull requests are for starting work on a solution
+ - Issues are like starting a conversation or discussion
+ - Pull requests are for starting work on a solution
 
 For lightweight communication, such as a clarifying or how-to question, try asking on Stack Overflow, IRC, Slack, or other chat channels, if the project has one
 Before you open an issue or pull request, check the project’s contributing docs (usually a file called CONTRIBUTING, or in the README), to see whether you need to include anything specific. For example, they may ask that you follow a template, or require that you use tests.
