@@ -1,4 +1,4 @@
-# 𝗔𝗯𝗼𝘂𝘁 𝗟-𝗕𝘆𝗗𝗼 𝗰𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 :
+# 𝗔𝗯𝗼𝘂𝘁 𝗟-𝗕𝘆𝗗𝗼 C𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 :
 We  have developed a community to promote Learning By Doing, no matter, what your branch is or from which college you belong.What you need here is a passion for your interests in learning and implementing technology related stuffs.
 We will act as facilitators while anyone joining this community acts as a volunteer.✅
 The soul aim of this initiative is to bring together all the tech heads, who are committed to enhance their knowledge,so as to promote collaborative learning and problem solving. We will be having virtual discussions on different topics of concern.Alongwith it ,we will be constantly sharing important information from various resources.📚 
