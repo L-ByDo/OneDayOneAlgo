@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500" height="300" display = "block" src="https://avatars0.githubusercontent.com/u/55204045?s=400&u=0a88e1608dfbd923c6bb7c2e53a490b1abcf774b&v=4">
+  <img width="500" height="300"  src="https://github.com/Toulik-Das/OneDayOneAlgo/blob/master/.github/workflows/55204045.png">
 </p>
 
 # 𝗔𝗯𝗼𝘂𝘁 𝗟-𝗕𝘆𝗗𝗼 C𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 :
