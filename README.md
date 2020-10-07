@@ -57,19 +57,19 @@ Tips for communicating on issues:
 ### 4.𝙊𝙥𝙚𝙣𝙞𝙣𝙜 𝙖 𝙥𝙪𝙡𝙡 𝙧𝙚𝙦𝙪𝙚𝙨𝙩: 
 You should usually open a pull request in the following situations:
 
-(a).Submit trivial fixes (for example, a typo, a broken link or an obvious error)
-(b).Start work on a contribution that was already asked for, or that you’ve already discussed, in an issue
-(c).A pull request doesn’t have to represent finished work. It’s usually better to open a pull request early on, so others can watch or give feedback on your progress. Just mark it as a “WIP” (Work in Progress) in the subject line. You can always add more commits later.
+ - Submit trivial fixes (for example, a typo, a broken link or an obvious error)
+ - Start work on a contribution that was already asked for, or that you’ve already discussed, in an issue
+ - A pull request doesn’t have to represent finished work. It’s usually better to open a pull request early on, so others can watch or give feedback on your progress. Just mark it as a “WIP” (Work in Progress) in the subject line. You can always add more commits later.
 
 If the project is on GitHub, here’s how to submit a pull request:
-
-(a).Fork the repository and clone it locally. Connect your local to the original “upstream” repository by adding it as a remote. Pull in changes from “upstream” often so that you stay up to date so that when you submit your pull request, merge conflicts will be less likely. (See more detailed instructions here.)
-(b).Create a branch for your edits.
-(c).Reference any relevant issues or supporting documentation in your PR (for example, “Closes #37.”)
-(d).Include screenshots of the before and after if your changes include differences in HTML/CSS. Drag and drop the images into the body of your pull request.
-(e).Test your changes! Run your changes against any existing tests if they exist and create new ones when needed. Whether tests exist or not, make sure your changes don’t break the existing project.
-(f).Contribute in the style of the project to the best of your abilities. This may mean using indents, semi-colons or comments differently than you would in your own repository, but makes it easier for the maintainer to merge, others to understand and maintain in the future.
-
+<ol>
+<li>Fork the repository and clone it locally. Connect your local to the original “upstream” repository by adding it as a remote. Pull in changes from “upstream” often so that you stay up to date so that when you submit your pull request, merge conflicts will be less likely. (See more detailed instructions here.)</li>
+<li>Create a branch for your edits.</li>
+<li>Reference any relevant issues or supporting documentation in your PR (for example, “Closes #37.”)</li>
+<li>Include screenshots of the before and after if your changes include differences in HTML/CSS. Drag and drop the images into the body of your pull request.</li>
+<li>Test your changes! Run your changes against any existing tests if they exist and create new ones when needed. Whether tests exist or not, make sure your changes don’t break the existing project.</li>
+<li>Contribute in the style of the project to the best of your abilities. This may mean using indents, semi-colons or comments differently than you would in your own repository, but makes it easier for the maintainer to merge, others to understand and maintain in the future.</li>
+</ol>
 𝒀𝒐𝒖 𝒅𝒊𝒅 𝒊𝒕 !! 💯
 Whether you just made your first open source contribution, or you’re looking for new ways to contribute, we hope you’re inspired to take action.
 
