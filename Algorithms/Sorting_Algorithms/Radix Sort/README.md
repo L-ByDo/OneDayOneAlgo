@@ -1,7 +1,7 @@
 # Radix Sort
 
 Radix sort is an integer sorting algorithm that sorts data with integer keys by groupin Radix sort uses counting sort as a subroutine to sort an array of numbers. 
-Because integers can be used to represent strings (by hashing the strings to integers), radix sort works on data types other than just integers.
+Because integers can be used to represent strings (by hashing the strings to integers), radix sort works on data types other than just integers.The lower bound of all the comparison based sorting algorithms( Merge sort, Heap sort, Quick sort, ...etc) is Ω(nLogn), i.e.., cannot be better than nLogn.
 
 ## The Radix Sort Algorithm
 1) Do following for each digit i where i varies from least significant digit to the most significant digit.
