@@ -1,0 +1,13 @@
+Enter the values for first polynomial: 
+Enter length of polynomial: 
+Enter values: 
+
+Enter the values for second polynomial: 
+Enter length of polynomial: 
+Enter values: 
+
+Results of Multiplication: 
+25*x^3*y^0*z^0 + 45*x^2*y^0*z^0 + 30*x^1*y^0*z^0 + 10*x^0*y^0*z^0
+
+Results of Summation: 
+5*x^2*y^0*z^0 + 9*x^1*y^0*z^0 + 7*x^0*y^0*z^0
